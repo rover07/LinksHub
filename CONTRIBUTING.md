@@ -253,7 +253,7 @@ We follow a standardized commit message format using Commitlint to ensure consis
 - `style: Format code according to project guidelines
 - `refactor(navbar): Improve responsiveness`
 - `test: Add unit tests for API endpoints`
-- `chore: Update dependencies to latest versions
+- `chore: Update dependencies to the latest versions
 - `fix: Handle edge case in data processing (#456)`
 
 #### ❌ Examples of Invalid Commit Messages
@@ -264,7 +264,7 @@ We follow a standardized commit message format using Commitlint to ensure consis
 - `auth feature update`
 - `chore: fixed some stuff`
 
-### Commit Example with Commitlint
+### Commit Example with Commitment
 
 ```bash
 git commit -m "feat(auth): Implement user signup process (#789)"
