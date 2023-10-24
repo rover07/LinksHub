@@ -84,7 +84,7 @@ Follow these steps to setup LinksHub on your local machine
    git add <filename>
    ```
 
-9. Commit your changes
+9.  your changes
 
    ```sh
    git commit -m "<your-commit-message>"
@@ -264,7 +264,7 @@ We follow a standardized commit message format using Commitlint to ensure consis
 - `auth feature update`
 - `chore: fixed some stuff`
 
-### Commit Example with Commitment
+### Commit Example with Commitlint
 
 ```bash
 git commit -m "feat(auth): Implement user signup process (#789)"
